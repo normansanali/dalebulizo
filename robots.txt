@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dalebulizo.pages.dev/sitemap.xml
